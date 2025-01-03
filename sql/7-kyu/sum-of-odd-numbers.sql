@@ -1,0 +1,4 @@
+SELECT
+    CAST(POWER(n, 3) AS INTEGER) AS res
+FROM
+    nums;
